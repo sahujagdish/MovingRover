@@ -4,10 +4,10 @@ Folder structure:
 Main Project - RobotRover
 Test Project - MovingRoverTest
 
-to open Project: 
-click on MovingRover.sln in Robot rover folder
+To open Project: 
+click on MovingRover.sln solution file in Robot rover folder
 
-Build the project. just avoid any glitch check if MovingRoverTest as the RobotRover project refernces. 
+Build the project. just to avoid any glitch check if MovingRoverTest as the RobotRover project refernces. 
 
 Features:
 
